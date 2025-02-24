@@ -30,7 +30,7 @@ While I enjoy working on individual side projects to refine my skills 💻, I al
     />
     <img 
       src="https://stats.javithor360.vercel.app/api?username=Javithor360&show_icons=true" 
-      height="200" 
+      height="150" 
     />
   </picture>
   <picture>
@@ -44,7 +44,7 @@ While I enjoy working on individual side projects to refine my skills 💻, I al
     />
     <img 
       src="https://stats.javithor360.vercel.app/api/top-langs/?username=Javithor360&layout=compact&langs_count=7" 
-      height="200" 
+      height="150" 
     />
   </picture>
 </div>
